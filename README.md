@@ -1,2 +1,2 @@
 # Blackjack Game
-Done in python, with a terminal/shell UI
+Created in Python 3.6, with a terminal/shell UI
